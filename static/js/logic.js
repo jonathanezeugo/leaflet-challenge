@@ -4,9 +4,9 @@ let queryUrl = 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_we
 
 // Load in GeoJSON data
 let geojsonPlates = "./GeoJSON/PB2002_plates.json";
-// let geojsonBoundaries = "GeoJSON/PB2002_boundaries.json";
-// let geojsonOrogens = "GeoJSON/PB2002_orogens.json";
-// let geojsonSteps = "GeoJSON/PB2002_steps.json";
+// let geojsonBoundaries = "./GeoJSON/PB2002_boundaries.json";
+// let geojsonOrogens = "./GeoJSON/PB2002_orogens.json";
+// let geojsonSteps = "./eoJSON/PB2002_steps.json";
 
 
 // Performing a GET request to the query URL and doing a quick view of both dataset at the console

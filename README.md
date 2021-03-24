@@ -49,7 +49,9 @@ The first task was to visualize an earthquake data set.
 
 ### Level 2: More Data 
 
-    ![Satellite_Map](Images/Satellite_Map.PNG)
+   ![Satellite_Map](Images/Satellite_Map.PNG)
+
+   ![Closeup_Map](Images/Closeup_Map.PNG)
 
 The USGS needed to plot a second data set on the map to illustrate the relationship between tectonic plates and seismic activity. A second data set was pulled and visualized alongside the original set of data. Data on tectonic plates can be found at <https://github.com/fraxen/tectonicplates>.
 
