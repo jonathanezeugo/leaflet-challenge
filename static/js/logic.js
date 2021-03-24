@@ -3,10 +3,10 @@ let queryUrl = 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_we
 //let queryUrl = 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson'; // for all month
 
 // Load in GeoJSON data
-let geojsonPlates = "GeoData/GeoJSON/PB2002_plates.json";
-// let geojsonBoundaries = "GeoData/GeoJSON/PB2002_boundaries.json";
-// let geojsonOrogens = "GeoData/GeoJSON/PB2002_orogens.json";
-// let geojsonSteps = "GeoData/GeoJSON/PB2002_steps.json";
+let geojsonPlates = "GeoJSON/PB2002_plates.json";
+// let geojsonBoundaries = "GeoJSON/PB2002_boundaries.json";
+// let geojsonOrogens = "GeoJSON/PB2002_orogens.json";
+// let geojsonSteps = "GeoJSON/PB2002_steps.json";
 
 
 // Performing a GET request to the query URL and doing a quick view of both dataset at the console
