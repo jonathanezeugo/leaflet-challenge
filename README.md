@@ -35,7 +35,7 @@ The first task was to visualize an earthquake data set.
 
    Created a map using Leaflet that plots all of the earthquakes from the data set based on their longitude and latitude.
 
-   * Created data markers that reflected the magnitude of the earthquake by their size and depth of the earth quake by color. Earthquakes with higher magnitudes appear larger and earthquakes with greater depth appear darker in color. This variation helps improve visu
+   * Created data markers that reflected the magnitude of the earthquake by their size and depth of the earth quake by color. Earthquakes with higher magnitudes appear larger and earthquakes with greater depth appear darker in color. This variation helps improve visualization.
 
    * Included popups that provide additional information about the earthquake when a marker is clicked. Information displayed are earthquake place, time, magnitude and type.
 
