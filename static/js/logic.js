@@ -158,5 +158,6 @@ legend.onAdd = function () {
             grades[i] + (grades[i + 1] ? '&ndash;' + grades[i + 1] + '<br>' : '+');
     }
 
-    return div;    
+    return div;
+       
 };
