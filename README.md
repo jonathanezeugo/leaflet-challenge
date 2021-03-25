@@ -63,6 +63,8 @@ This step involved..
 
 * Added layer controls to the map to view different pages.
 
+![Closeup_Map_Sat](Images/Closeup_Map_Sat.PNG)
+
 Key components used here are JavaScript, CSS, HTML, and VS code.
 
 ### Copyright
