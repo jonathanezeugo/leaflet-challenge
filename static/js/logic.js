@@ -2,7 +2,7 @@
 let queryUrl = 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson'; // for all week
 //let queryUrl = 'https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson'; // for all month
 
-// Load in GeoJSON data
+// Load in GeoJSON data downloaded from https://github.com/fraxen/tectonicplates
 let geojsonPlates = "./GeoJSON/PB2002_plates.json";
 // let geojsonBoundaries = "./GeoJSON/PB2002_boundaries.json";
 // let geojsonOrogens = "./GeoJSON/PB2002_orogens.json";

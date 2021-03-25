@@ -63,6 +63,8 @@ This step involved..
 
 * Added layer controls to the map to view different page.
 
+Key components used here are JavaScript, CSS, HTML, and VS code.
+
 ### Copyright
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
