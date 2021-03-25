@@ -105,7 +105,7 @@ function createMap(earthquakes, tectonicPlates) {
         'Satellite Map': satelliteMap,
         'Street Map': streetMap,
         'Outdoors': outdoorMap
-    }
+    };
 
     // Create overlay object to hold our overlay layer
     let overlayMaps = {
