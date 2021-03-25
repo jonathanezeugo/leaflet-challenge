@@ -18,7 +18,7 @@ These are the steps taken in this challenge:
 ### Our Basic Visualization
 
 
-The finalized app has been deployed to github page. Click [here](https://jonathanezeugo.github.io/leaflet-challenge/index.html) to view the rendered page.
+The finalized webpage/app has been deployed to github page. Click [here](https://jonathanezeugo.github.io/leaflet-challenge/index.html) to view the rendered page.
 
 ### Proceedure
 The first task was to visualize an earthquake data set.
