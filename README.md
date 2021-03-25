@@ -31,7 +31,7 @@ The first task was to visualize an earthquake data set.
 
    ![4-JSON](Images/4-JSON.png)
 
-2. **Import & Visualize of the Data**
+2. **Importing & Visualize of the Data**
 
    Created a map using Leaflet that plots all of the earthquakes from the data set based on their longitude and latitude.
 
