@@ -49,6 +49,8 @@ The first task was to visualize an earthquake data set.
 
 ### Level 2: More Data 
 
+Added a new level to the challenge, including tectonic data. See generated maps below
+
    ![Satellite_Map](Images/Satellite_Map.PNG)
 
    ![Closeup_Map](Images/Closeup_Map.PNG)
