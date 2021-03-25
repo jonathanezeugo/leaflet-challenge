@@ -61,7 +61,7 @@ This step involved..
 
 * Addding a number of base maps - Satellite map, Street map and Outdoor map to choose from as well as separated out two different data sets (earthquake and tectonic plates) into overlays that can be turned on and off independently. Please note: the default page allows for clicking on each location to see the bound popup information.
 
-* Added layer controls to the map to view different page.
+* Added layer controls to the map to view different pages.
 
 Key components used here are JavaScript, CSS, HTML, and VS code.
 
